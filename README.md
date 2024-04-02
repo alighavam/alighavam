@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Ghavampour
-- 👀 My interests are Computational and Cognitive Neuroscience, Psychology, Biomedical Signal and Image Processing, Artificial Intelligence and Machine Learning.
+- I'm an MSc Neuroscience student at Diedrichsen Lab, University of Western Ontario, London, Canada.
 - You can contact me by my email: alighavam79@gmail.com
 
 <!---
